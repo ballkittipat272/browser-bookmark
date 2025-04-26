@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :325: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <folder id="4">
+    <title>KKPS</title>
+    <folder id="24">
+      <title>Workspace</title>
+      <bookmark href="https://online.actitime.com/PT2019/login.do" id="90">
+        <title>actiTIME - Login</title>
+      </bookmark>
+      <bookmark href="https://login.microsoftonline.com/9fce0284-1a8c-4368-85b0-571bbad0df08/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code%20id_token&amp;resource=00000003-0000-0ff1-ce00-000000000000&amp;scope=openid&amp;nonce=4A8F8428EAA903FB0A8FCF8E7B83A796BD064C9C93CB4391-878E876FE155D407B5C5069D8A52E8BB6F9083C1150B77A893F58CE67CB2C277&amp;redirect_uri=https%3A%2F%2Fkiatnakin365%2Esharepoint%2Ecom%2F_forms%2Fdefault%2Easpx&amp;state=OD0w&amp;claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&amp;wsucxt=1&amp;cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&amp;client-request-id=2f3995a1-8031-5000-0d8f-8fea512c8743" id="91">
+        <title>Squad Day Off</title>
+      </bookmark>
+      <bookmark href="http://ptsecmsvssd2:8080/scm/repos/" id="92">
+        <title>Repositories</title>
+      </bookmark>
+      <bookmark href="https://home.atlassian.com/o/39b1k98j-5jb0-17k8-k907-9c1811c8j669/?cloudId=16d4b65a-7ad3-49b5-b639-6e4544e5a886" id="93">
+        <title>Atlassian Home</title>
+      </bookmark>
+      <bookmark href="https://kkps.atlassian.net/jira/software/c/projects/ITS/boards/732?assignee=712020%3A171d709e-8896-4ac8-b23e-5986a08dd19d" id="94">
+        <title>SP25-08 - 1.3 KATI - Scrum Board - Jira</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://hr.kkpfg.com/ebook/CMGEmployeeHandbook/#p=1" id="25">
+      <title>Employee Handbook</title>
+    </bookmark>
+    <bookmark href="https://hr.kkpfg.com/ebook/Principles/#p=1" id="26">
+      <title>Principles</title>
+    </bookmark>
+    <bookmark href="https://hcm44.sapsf.com/login?company=kiatnakinb" id="27">
+      <title>SAP SuccessFactors</title>
+    </bookmark>
+  </folder>
+  <folder id="5">
+    <title>Plan</title>
+    <folder id="28">
+      <title>OTC</title>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1_0p0llh_-NQMvC1v6d_k0X_QevGPNRLz1qH1dmhsuX0/edit#gid=797093110" id="95">
+        <title>OTC: Phase 10 Override Spot &amp; Redeem Price - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/19TqDgQS4GnP0yDLg51pMcuvuZUHGs0WGghpt-FrvqdE/edit#gid=797093110" id="96">
+        <title>OTC: Phase 11 Book Option - Google Sheets</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1sHP65xSbLwYe5miJPAkHiM0WNGvR-DK3kmROHyJcd38/edit#gid=797093110" id="97">
+        <title>OTC: KKSN Enhance - Google Sheets</title>
+      </bookmark>
+    </folder>
+    <folder id="29">
+      <title>MFET</title>
+      <bookmark href="https://docs.google.com/spreadsheets/d/11ZfxH_xsfJNC9zjfeId7ctG6_kdV-XThJTfQ5kBTQ40/edit#gid=954573147" id="98">
+        <title>MFET : Support NDID - Google Sheets</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="6">
+    <title>System Flow</title>
+    <folder id="30">
+      <title>MFET</title>
+      <bookmark href="https://www.figma.com/board/0xoXuceuvheyEWe0i1wVrq/MFET?node-id=0-1&amp;t=rCM8tiFWrE3QZtR2-0" id="99">
+        <title>MFET – FigJam</title>
+      </bookmark>
+    </folder>
+    <folder id="31">
+      <title>OTC</title>
+      <bookmark href="https://www.figma.com/board/yWSbV5gWD2FyXZpy8wZvVv/OTC?node-id=0-1&amp;t=Cduj65oSEvwy30GG-0" id="100">
+        <title>OTC – FigJam</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="7">
+    <title>Work</title>
+    <folder id="32">
+      <title>Bond Platform</title>
+      <folder id="101">
+        <title>Bond</title>
+        <bookmark href="https://www.ibond.thaibma.or.th/documents/manual/2.iBond_BondInfo.pdf" id="110">
+          <title>iBond User Manual</title>
+        </bookmark>
+        <bookmark href="https://portal.set.or.th/th/products/bonds/files/Glossary_thai.pdf" id="111">
+          <title>คำศัพท์เกี่ยวกับตราสารหนี้</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="33">
+      <title>DTS</title>
+      <folder id="102">
+        <title>Design</title>
+        <bookmark href="https://app.diagrams.net/#G10rG78mFYFje-2zIWFGKLC4UNhhX6zQLF" id="112">
+          <title>DTS Enhancement</title>
+        </bookmark>
+        <bookmark href="https://jgraph.github.io/drawio-tools/tools/link.html" id="113">
+          <title>Create Custom Link</title>
+        </bookmark>
+      </folder>
+      <folder id="103">
+        <title>Knowledge</title>
+        <bookmark href="https://www.wealthmagik.com/information-news/7-%E0%B8%84%E0%B8%B3-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B9%E0%B9%89" id="114">
+          <title>7 คำ ควรรู้ก่อนลงทุนในหุ้นกู้ - WealthMagik</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="34">
+      <title>MFET</title>
+      <folder id="104">
+        <title>SuperApp - Figma</title>
+        <bookmark href="https://www.figma.com/file/150s6D0yoUwvHgwHpGdlXI/KKP-Mobile-MVP-%3A-Lot-1?node-id=19946%3A156328" id="115">
+          <title>KKP Mobile MVP : Lot 1 – Figma</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/file/KqgKmVhAJ4Wwn9MOgx2PXt/KKP-Mobile-MVP-%3A-Lot-2?node-id=19760%3A145350" id="116">
+          <title>KKP Mobile MVP : Lot 2 – Figma</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/file/UlwRHLy5dqdVhXWSOdpO6w/8.1---Fund-Form-(Purchase)?node-id=19946%3A156328" id="117">
+          <title>8.1 - Fund Form (Purchase) – Figma</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/file/rloIOITXmwF1I2NM8m7kCP/8.2---Fund-Form-(Redeem)?node-id=19946%3A182504" id="118">
+          <title>8.2 - Fund Form (Redeem) – Figma</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/file/vU9p1UU2kIiZyXUAAvcmFh/8.3---Fund-Form-(Switch)?node-id=24335%3A147605" id="119">
+          <title>8.3 - Fund Form (Switch) – Figma</title>
+        </bookmark>
+        <bookmark href="https://www.figma.com/file/N39Xyttgf13BI4ZQi3kEOm/13.X---Onboard-Series?node-id=0%3A1" id="120">
+          <title>13.X - Onboard Series – Figma</title>
+        </bookmark>
+      </folder>
+      <folder id="105">
+        <title>FundConnext</title>
+        <bookmark href="https://www.scptest.set.or.th/FundConnext/SingleForm/" id="121">
+          <title>FundConnext - Single Form</title>
+        </bookmark>
+        <bookmark href="https://www.set.or.th/education/th/begin/mutualfund_content02.pdf" id="122">
+          <title>&lt;4D6963726F736F667420576F7264202D20CBB9E9D2C5CDC25FA1CDA7B7D8B9C3C7C1325FBBC3D0E0C0B7A2CDA7A1CDA7B7D8B9C3C7C15F52652E646F6378&gt;</title>
+        </bookmark>
+        <bookmark href="https://www.set.or.th/th/dap/fundconnext_p1.html" id="123">
+          <title>ตลาดหลักทรัพย์แห่งประเทศไทย - DAP - บริษัท ดิจิทัล แอคเซส แพลตฟอร์ม จำกัด</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="35">
+      <title>PW-CMS</title>
+      <bookmark href="https://app.diagrams.net/#G1un__zbrcOMXu97xQlJ3fGLvQwWyUSswZ" id="106">
+        <title>DB Design</title>
+      </bookmark>
+    </folder>
+    <folder id="36">
+      <title>TMT</title>
+      <folder id="107">
+        <title>Sale Platform</title>
+        <bookmark href="https://connexb.sharepoint.com/:x:/r/sites/TMT2-CRM/_layouts/15/guestaccess.aspx?e=4%3AUwhxvh&amp;at=9&amp;CID=16748882-f59b-acc9-88e4-4a20eb8604f9&amp;share=EY8aV1eM059JhDCYZA9SLRIBSPtEw8PAECFu02FDqgIB0w" id="124">
+          <title>crm-saleplatform-task-plan.xlsx</title>
+        </bookmark>
+        <bookmark href="https://connexb-my.sharepoint.com/:x:/r/personal/phompiriya_a_b-connex_net/_layouts/15/doc2.aspx?sourcedoc=%7B0dff326e-5a2c-44ec-88f3-732a30ca43e6%7D&amp;action=edit&amp;activeCell=%27SOD%27!D285&amp;wdinitialsession=b0ad0d3c-748f-4fc7-a248-059b201e1408&amp;wdrldsc=5&amp;wdrldc=1&amp;wdrldr=AccessTokenExpiredWarning%2CRefreshingExpiredAccessT&amp;cid=ba333ac9-eb0c-4f79-b41c-872e488c81cd" id="125">
+          <title>crm-database-design.xlsx</title>
+        </bookmark>
+        <bookmark href="https://connexb.sharepoint.com/:x:/r/sites/TMT2-CRM/_layouts/15/Doc.aspx?sourcedoc=%7Bdc3608b2-4b46-4b37-bd54-d5eaca91f0df%7D&amp;action=edit&amp;wdinitialsession=01633234-096e-447b-9e95-23655329b0b8&amp;wdrldsc=3&amp;wdrldc=1&amp;wdrldr=EditModeCannotAcquireLockUnrecoverable&amp;cid=3f523873-977d-4e31-8aaa-645c8abbce0f" id="126">
+          <title>SOD.xlsx</title>
+        </bookmark>
+      </folder>
+      <folder id="108">
+        <title>FMS</title>
+        <folder id="127">
+          <title>Components</title>
+          <bookmark href="https://stackblitz.com/edit/angular-drag-and-drop-child-groups-mxrkae?file=app%2Fcdk-drag-drop-connected-sorting-group-example.html" id="142">
+            <title>Angular Drag And Drop Child Groups (forked) - StackBlitz</title>
+          </bookmark>
+          <bookmark href="https://material.angular.io/" id="143">
+            <title>Angular Material UI component library</title>
+          </bookmark>
+        </folder>
+        <folder id="128">
+          <title>ตัวอย่างประเมินงาน TMT</title>
+          <bookmark href="https://connexb.sharepoint.com/:x:/s/TMT2/Eb3r3dEASMROqQ08M0tSFoUB61Wgx8DnEKz-CGsdSHaDWw?e=iQFP2Z&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA4MTcwMDQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" id="144">
+            <title>TMT_NCR_Man-days_V.0.2_For Team.xlsx</title>
+          </bookmark>
+          <bookmark href="https://connexb.sharepoint.com/sites/TMT2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTMT2%2FShared%20Documents%2FGeneral%2FProposal%2FNCR%2FCBO%5FTMT%5FNCR%5FBusinessProposal%5FV3%2E0%2Epdf&amp;parent=%2Fsites%2FTMT2%2FShared%20Documents%2FGeneral%2FProposal%2FNCR&amp;p=true&amp;ct=1727588771330&amp;or=Teams%2DHL&amp;ga=1" id="145">
+            <title>connexb.sharepoint.com/sites/TMT2/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FTMT2%2FShared Documents%2FGeneral%2FProposal%2FNCR%2FCBO_TMT_NCR_BusinessProposal_V3%2E0%2Epdf&amp;parent=%2Fsites%2FTMT2%2FShared Documents%2FGeneral%2FProposal%2FNCR&amp;p=true&amp;ct=1727588771330&amp;or=Teams-HL&amp;ga=1</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://connexb-my.sharepoint.com/:w:/g/personal/panaphon_c_b-connex_net/EQhE1K6CrMlNoZEV5J9ErpoBl27sk14zhKdy8j00OOk68A?e=mxYTJY&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;wdExp=TEAMS-TREATMENT&amp;wdhostclicktime=1727665127220&amp;web=1" id="129">
+          <title>CBO_TMT_FMS - BusinessProposal_V 1.0.docx</title>
+        </bookmark>
+        <folder id="130">
+          <title>ตัวอย่าง UI CSV Mapping</title>
+          <bookmark href="https://dribbble.com/shots/21641830-CSV-File-Data-Mapping-Email-Marketing-Software" id="146">
+            <title>CSV File Data Mapping - Email Marketing Software by Omar Faruk on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/24406471-Attio-Mapping-attribute" id="147">
+            <title>Attio - Mapping attribute by Tú for Attio on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/24013394-Contact-CSV-import" id="148">
+            <title>Contact CSV import by Bartek Skrabka for OpenPhone on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/21888947-Bulk-payments-CSV-import-mapping-for-online-banking" id="149">
+            <title>Bulk payments CSV import mapping for online banking by Mikalai on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/22045238-Field-mapping" id="150">
+            <title>Field mapping by Eugen Eşanu on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/17150210-Spreadsheet-field-mapping-B2B-retail-app" id="151">
+            <title>Spreadsheet field mapping (B2B retail app) by Alex Gilev on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/13914488-CSV-mapping/attachments/5523765?mode=media" id="152">
+            <title>dribbble.com/shots/13914488-CSV-mapping/attachments/5523765?mode=media</title>
+          </bookmark>
+          <bookmark href="https://confluence.atlassian.com/crowd/mapping-csv-fields-to-crowd-fields-65437705.html" id="153">
+            <title>Mapping CSV Fields to Crowd Fields | Crowd Data Center 6.1 | Atlassian Documentation</title>
+          </bookmark>
+        </folder>
+        <folder id="131">
+          <title>ตัวอย่าง UI Dashboard Finance</title>
+          <bookmark href="https://dribbble.com/shots/21044947-Financial-Management-Dashboard" id="154">
+            <title>Financial Management Dashboard by Mahmud Saeef on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/21669864-Money-Management-Saas-Customer-Statement-page" id="155">
+            <title>Money Management Saas - Customer Statement page by Filllo Design Agency on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/24990052-Finance-Dashboard-Exploration" id="156">
+            <title>Finance Dashboard Exploration by Fireart UI/UX for Fireart Studio on Dribbble</title>
+          </bookmark>
+          <bookmark href="https://dribbble.com/shots/24604163-Personal-Finance-Dashboard" id="157">
+            <title>Personal Finance Dashboard by Fireart UI/UX for Fireart Studio on Dribbble</title>
+          </bookmark>
+        </folder>
+        <folder id="132">
+          <title>ตัวอย่าง UI Add / Edit Condition</title>
+          <bookmark href="https://dribbble.com/shots/15933985-If-Then-statement" id="158">
+            <title>If/Then statement by Remus Baltariu for ASSIST Software on Dribbble</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="109">
+        <title>NCR</title>
+        <bookmark href="https://docs.google.com/spreadsheets/d/1kGlwWxvdf9l9wUeLiwQhJftSuJp1RMGAZH4IGMKTGmQ/edit?gid=982466929#gid=982466929" id="133">
+          <title>Bug List UAT NCR - Google Sheets</title>
+        </bookmark>
+        <bookmark href="https://docs.google.com/spreadsheets/d/1ecJ5l0VB7-hmX6MxMT1zXoPip4n465YdmVg4RQ4Z9FA/edit?gid=849907787#gid=849907787" id="134">
+          <title>Bug List NCR - Google Sheets</title>
+        </bookmark>
+        <bookmark href="https://192.168.100.33/SSO_UAT/SingleSignOn?system=NCR&amp;message=&amp;returnUrl=http:%2F%2F192.168.100.143%2FNCR%2F" id="135">
+          <title>NCR Internal [QAS]</title>
+        </bookmark>
+        <bookmark href="http://192.168.100.144/NCR/not-found" id="136">
+          <title>NCR External [QAS]</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=YyYRrJH4MG4&amp;list=PLA54IhaVHkrR1McttPci8fKdKb0UMqYZ0&amp;index=3" id="137">
+          <title>(301) Initilizing Domain Layer - YouTube</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder>
+  <bookmark href="https://www.notion.so/1b71f57bdac980ccb906e2492147e78d?v=1b71f57bdac980698d5a000c3cf0e6df" id="8">
+    <title>Tasks</title>
+  </bookmark>
+  <bookmark href="https://snapdrop.net/" id="9">
+    <title>Snapdrop</title>
+  </bookmark>
+  <bookmark href="https://app.clockify.me/tracker" id="10">
+    <title>Clockify</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ypBkKv9Rnoc" id="11">
+    <title>(330) Agile Software Development ตอนที่ 1: แนะนำทำความรู้จักกับ Agile Software Development - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <folder id="12">
+    <title>.Net</title>
+    <bookmark href="https://medium.com/t-t-software-solution/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A-net-6-web-api-7bd33ce2c28f" id="37">
+      <title>เริ่มต้นอีกครั้งกับ .NET 6 Web API | by Ponggun | T. T. Software Solution | Medium</title>
+    </bookmark>
+    <bookmark href="https://help.syncfusion.com/aspnet-core/system-requirements" id="38">
+      <title>System Requirements in ASP.NET Core - Syncfusion</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/60839845/net-core-windowsidentity-impersonation-does-not-seem-to-be-working" id="39">
+      <title>c# - .Net Core WindowsIdentity impersonation does…</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/65407501/impersonation-middleware-in-an-asp-net-core-intranet-app-for-windows-identity" id="40">
+      <title>c# - Impersonation Middleware in an Asp.Net Core…</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/answers/questions/533485/config-error-this-configuration-section-cannot-be.html" id="41">
+      <title>Config Error: This configuration section cannot be used at this path - Microsoft Q&amp;A</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=K5dp04XH3mU" id="42">
+      <title>(603) How to Install IIS Web Services on Windows Server 2016 &amp; Deploy ASP.NET Core 6 Web Application - YouTube</title>
+    </bookmark>
+    <bookmark href="https://code-maze.com/apicontroller-attribute-in-asp-net-core-web-api/" id="43">
+      <title>ApiController Attribute in ASP.NET Core Web API - Code Maze</title>
+    </bookmark>
+    <bookmark href="https://dotnetcoretutorials.com/2021/11/10/single-file-apps-in-net-6/" id="44">
+      <title>Single File Apps In .NET 6 - .NET Core Tutorials</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/31464359/how-do-you-create-a-custom-authorizeattribute-in-asp-net-core" id="45">
+      <title>c# - How do you create a custom AuthorizeAttribute in ASP.NET Core? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://dotnetdevlife.wordpress.com/2019/11/14/ef-error-the-required-column-was-not-present-in-the-results-of-a-fromsql-operation/" id="46">
+      <title>EF error : The required column was not present in the results of a FromSql operation. – .net dev life</title>
+    </bookmark>
+    <bookmark href="https://henriquesd.medium.com/httpclient-vs-ihttpclientfactory-b4370bfbfbac" id="138">
+      <title>HttpClient vs IHttpClientFactory. HttpClient and IHttpClientFactory can… | by Henrique Siebert Domareski | Medium</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/39737585/asp-net-core-deployment-to-iis-error-development-environment-should-not-be-enab" id="139">
+      <title>visual studio 2015 - ASP.NET Core deployment to IIS error: Development environment should not be enabled in deployed applications - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>Angular</title>
+    <bookmark href="https://medium.com/devnote/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-dependency-injection-%E0%B9%83%E0%B8%99-angular-880cbf483239" id="47">
+      <title>ทำความรู้จักกับ Dependency Injection ใน Angular | by Nutti Saelor | DevNote | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/javascript-in-plain-english/understand-angulars-forroot-and-forchild-f27fbc41cb7b" id="48">
+      <title>Understand Angular’s forRoot and forChild | by Heloise Parein | JavaScript In Plain English | Medium</title>
+    </bookmark>
+    <bookmark href="https://indepth.dev/posts/1056/avoiding-common-confusions-with-modules-in-angular" id="49">
+      <title>Avoiding common confusions with modules in Angular - Angular inDepth</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=mwQFRsuY5i8" id="50">
+      <title>Angular - Resolve &amp; automatic loading spinner with overlay - YouTube</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@rubenvermeulen/running-angular-cli-over-https-with-a-trusted-certificate-4a0d5f92747a" id="51">
+      <title>Running Angular CLI over HTTPS with a Trusted Certificate | by Ruben Vermeulen | Medium</title>
+    </bookmark>
+    <bookmark href="https://github.com/DevExpress/devextreme-angular/issues/430" id="52">
+      <title>How to create custom directive for DxComponent · Issue #430 · DevExpress/devextreme-angular</title>
+    </bookmark>
+    <bookmark href="https://isamatov.com/prevent-timers-stopping-javascript/" id="53">
+      <title>How to Prevent the Timers from Stopping Due to Browser Tab Inactivity in JavaScript – Web Development Tutorials - Iskander Samatov</title>
+    </bookmark>
+  </folder>
+  <folder id="14">
+    <title>Authen &amp; Authorize</title>
+    <bookmark href="https://www.jittagornp.me/blog/best-practice-to-design-oauth-token/" id="54">
+      <title>แนวทางปฏิบัติที่ดี ในการทำ OAuth 2.0 Access Token &amp; Refresh Token เพื่อความปลอดภัย</title>
+    </bookmark>
+    <bookmark href="https://www.patanasongsivilai.com/blog/password-hash-function-salt-values/" id="55">
+      <title>เข้ารหัส Password ด้วย Hash function กับ Salt values</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/2138429/hash-and-salt-passwords-in-c-sharp" id="56">
+      <title>Hash and salt passwords in C# - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.c-sharpcorner.com/article/web-ap/" id="57">
+      <title>Web API Token Based Authentication</title>
+    </bookmark>
+    <bookmark href="https://www.dotnettricks.com/learn/webapi/token-based-authentication-in-aspnet-web-api" id="58">
+      <title>Token Based Authentication in ASP.NET Web API</title>
+    </bookmark>
+    <bookmark href="https://www.c-sharpcorner.com/UploadFile/ff2f08/token-based-authentication-using-Asp-Net-web-api-owin-and-i/" id="59">
+      <title>Token Based Authentication Using ASP.Net Web API, OWIN and Identity With Entity Framework</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@pichid/client-credentials-with-oauth-in-asp-net-core-fc4772af0e88" id="60">
+      <title>Client Credentials with OAuth in ASP.NET Core | by Pichid Detson | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@pichid/token-based-authentication-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-asp-net-web-api-4fd8aee328d0" id="61">
+      <title>Token Based Authentication ด้วย ASP.NET Web API | by Pichid Detson | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@pichid/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-refresh-tokens-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-asp-net-web-api-79d20b1313aa" id="62">
+      <title>เปิดการใช้งาน Refresh Tokens ด้วย ASP.NET Web API | by Pichid Detson | Medium</title>
+    </bookmark>
+    <bookmark href="https://bitoftech.net/2014/10/27/json-web-token-asp-net-web-api-2-jwt-owin-authorization-server/" id="63">
+      <title>JSON Web Token in ASP.NET Web API 2 using Owin - Bit of Technology</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@panuwat.w/oauth-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-bde9e1f773f9" id="140">
+      <title>OAuth คืออะไร. OAuth (Open Authentication)… | by Panuwat Wongkasetchai | Medium</title>
+    </bookmark>
+    <bookmark href="https://athiththan11.medium.com/oauth-2-grant-types-a-story-guide-582580a3c4c2" id="141">
+      <title>OAuth 2 Grant Types: A Story Guide | by Athiththa…</title>
+    </bookmark>
+  </folder>
+  <folder id="15">
+    <title>Cache Control</title>
+    <bookmark href="http://yuezhizizhang.github.io/angular6/cache-control/2019/06/07/angular-cache-control.html" id="64">
+      <title>Cache-Control is crucial for a single-page web application like Angular</title>
+    </bookmark>
+    <bookmark href="https://nexusger.de/posts/2019-07-29-cache-spa-in-iis/" id="65">
+      <title>Cache Single Page Applications (SPA) in Internet Information Service (IIS) · Stuff</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>CMS</title>
+    <bookmark href="https://www.youtube.com/watch?v=vcopLqUq594" id="66">
+      <title>(45) Strapi v4 Crash Course - YouTube</title>
+    </bookmark>
+    <bookmark href="https://morphos.is/th/blog/what-is-strapi-and-how-it-will-dominate-the-world-of-headless-cms" id="67">
+      <title>Strapi คืออะไร ทำไมถึงได้รับความนิยมในโลกของ Headless CMS</title>
+    </bookmark>
+  </folder>
+  <folder id="17">
+    <title>CNX</title>
+    <bookmark href="http://next.greatfriends.biz/classtrack/on/3C63643B" id="68">
+      <title>Connex Business Online - TDD Workshop</title>
+    </bookmark>
+  </folder>
+  <folder id="18">
+    <title>DB Normalization</title>
+    <bookmark href="https://medium.com/@miwtoo/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-normalization-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-schema-d0324b6c9556" id="69">
+      <title>การทำ Normalization เพื่อปรับปรุง Schema - Wongsacorn Chugasem - Medium</title>
+    </bookmark>
+    <bookmark href="https://msit5.wordpress.com/2013/09/06/%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B9%84%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%8A%E0%B8%B1%E0%B8%99-normalization/" id="70">
+      <title>นอร์มัลไลเซชัน (Normalization) | MSIT5 Education Forums</title>
+    </bookmark>
+    <bookmark href="https://beginnersbook.com/2015/05/normalization-in-dbms/" id="71">
+      <title>Normalization in DBMS: 1NF, 2NF, 3NF and BCNF in Database</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=KUWIQK0U-Wo&amp;feature=share&amp;app=desktop" id="72">
+      <title>DB5-1 - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="19">
+    <title>Docker</title>
+    <bookmark href="https://dekcrack.com/docker-ep-6-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-docker-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0" id="73">
+      <title>: Docker EP. 6: ลองใช้ Docker กับโปรเจคของเรากันเถอะ</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@rachatatongpagdee/docker-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-7e77145967b6" id="74">
+      <title>Docker คืออะไร ใช้งานอย่างไร - Rachata Tongpagdee - Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@supachaija/docker-101-1-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B9%83%E0%B8%8A%E0%B9%89-docker-%E0%B8%9A%E0%B8%99-windows-10-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-8709820ec95d" id="75">
+      <title>[Docker-101#1] เริ่มหัดใช้ Docker บน Windows 10 แบบง่ายๆ ได้ยังไง?</title>
+    </bookmark>
+    <bookmark href="http://www.artit-k.com/node-js-docker-container-from-zero-hero/" id="76">
+      <title>NodeJs in Docker as DevEnv</title>
+    </bookmark>
+    <bookmark href="https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/" id="77">
+      <title>Dockerfile: ENTRYPOINT vs CMD</title>
+    </bookmark>
+    <bookmark href="https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/#:~:text=ENTRYPOINT%20instruction%20allows%20you%20to,runs%20with%20command%20line%20parameters." id="78">
+      <title>Docker RUN vs CMD vs ENTRYPOINT</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/52699899/depends-on-doesnt-wait-for-another-service-in-docker-compose-1-22-0" id="79">
+      <title>depends_on doesn&apos;t wait for another service in docker-compose 1.22.0 - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://vsupalov.com/docker-arg-env-variable-guide/" id="80">
+      <title>Docker ARG, ENV and .env - a Complete Guide · vsupalov.com</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?sxsrf=ALeKk03KM0h10d3JiVdDBdchvWo9d_i7Gw%3A1609421384961&amp;ei=SNLtX7OfOsL79QOCpoHIAQ&amp;q=dockerfile+pass+arguments+to+script&amp;oq=dockerfile+pass+arguments+to+&amp;gs_lcp=CgZwc3ktYWIQAxgDMgUIABDJAzICCAAyAggAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABDJAxBDOgQIABBDOgUIABCxAzoECCMQJzoHCAAQsQMQQzoECC4QQzoFCAAQkQI6CAgAEMkDEJECOgUIABDLAToHCAAQFBCHAjoKCAAQyQMQFBCHAlCF1ClYyv4pYJGnKmgCcAF4AoABpQGIAawVkgEEMC4yMpgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab" id="81">
+      <title>dockerfile pass arguments to script - Google Search</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=SyZ2L2EeY1c" id="82">
+      <title>(24) สอน ASP.NET Core 5.0 : วิธีการ Deploy ASP.NET Core ไป Linux แบบง่ายๆ - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="20">
+    <title>Git</title>
+    <bookmark href="https://medium.com/open-source-technology/git-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-git-e8f873a4fdc" id="83">
+      <title>Git: เริ่มต้นใช้งาน Git - Open Source Technology - Medium</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git" id="84">
+      <title>undo - How to uncommit my last commit in Git - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/1895059/revert-to-a-commit-by-a-sha-hash-in-git" id="85">
+      <title>Revert to a commit by a SHA hash in Git? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=nQdR_csFOso&amp;list=PLRu9p-l30DbWoU9GqH1W48CBvikjAlSbm&amp;index=1" id="86">
+      <title>(1) สอน Git ตอนที่ 1 - รู้จัก Git และ Version Control System สำหรับจัดการไฟล์และซอร์สโค้ด - YouTube</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git#:~:text=In%20the%20Commit%20window%2C%20select,lines%27%20from%20the%20context%20menu." id="87">
+      <title>Commit only part of a file in Git - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/49036101/how-to-change-diff-color-visual-studio-code" id="88">
+      <title>themes - How to change diff color Visual Studio Code - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="21">
+    <title>iCalendar</title>
+    <bookmark href="https://www.kanzaki.com/docs/ical/" id="89">
+      <title>iCalendar Specification Excerpts</title>
+    </bookmark>
+  </folder>
+  <folder id="159">
+    <title>IIS</title>
+    <bookmark href="https://www.c-sharpcorner.com/article/workaround-for-loop-back-check-issue-in-sharepoint/" id="167">
+      <title>Workaround For Loop Back Check Issue In SharePoint</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@satawneh/crystal-reports-access-to-report-file-denied-another-program-may-be-using-it-92594cbde78c" id="168">
+      <title>Crystal Reports: Access to report file denied. Another program may be using it. | by Shadi Atawneh | Medium</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/56380345/how-to-set-the-web-config-file-to-show-the-full-error-message-net-core-2-1" id="169">
+      <title>How to set the &apos;web.config&apos; file to show the full error message (.NET Core 2.1) - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="160">
+    <title>Jenkins</title>
+    <bookmark href="https://www.jittagornp.me/blog/jenkins-pipeline/#:~:text=Jenkins%20%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%20Software%20(Tool)%20%E0%B8%95%E0%B8%B1%E0%B8%A7,%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%20Software" id="170">
+      <title>พื้นฐานการเขียน Jenkins Pipeline</title>
+    </bookmark>
+  </folder>
+  <folder id="161">
+    <title>K8S</title>
+    <bookmark href="https://medium.com/jitta-engineering/kubernetes-s01e01-introduction-concept-6dbd898e7f2d" id="171">
+      <title>Kubernetes S01E01: Introduction และ Concept - Jitta Engineering - Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@goangle/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-k8s-%E0%B9%83%E0%B8%99-docker-desktop-for-mac-1f83d68f7d56" id="172">
+      <title>ลองเล่น K8S ใน Docker Desktop for Mac - Teerapong Singthong 👨🏻‍💻 - Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@phayao/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87-kubernetes-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-minikube-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-b8a7bd1a6b59" id="173">
+      <title>มาลอง Kubernetes ด้วย Minikube กันเถอะ - Phayao Boonon - Medium</title>
+    </bookmark>
+    <bookmark href="https://phoenixnap.com/kb/install-kubernetes-on-ubuntu" id="174">
+      <title>How To Install Kubernetes on Ubuntu 18.04 (Step by Step)</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@proSbeginner/%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-kubernetes-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87-part-1-df3c8469f228" id="175">
+      <title>ศึกษา Kubernetes ด้วยตนเอง part 1 - Phai Panda - Medium</title>
+    </bookmark>
+    <bookmark href="https://m.youtube.com/watch?v=s_o8dwzRlu4&amp;feature=youtu.be" id="176">
+      <title>Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="162">
+    <title>Kafka</title>
+    <bookmark href="https://medium.com/linedevth/apache-kafka-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-1-hello-apache-kafka-242788d4f3c6" id="177">
+      <title>Apache Kafka ฉบับผู้เริ่มต้น #1: Hello Apache Kafka | by Neng Liangpornrattana | LINE Developers Thailand | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/linedevth/apache-kafka-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-2-core-concepts-7dfd4358ec04" id="178">
+      <title>Apache Kafka ฉบับผู้เริ่มต้น #2: Core concepts | by Neng Liangpornrattana | LINE Developers Thailand | Medium</title>
+    </bookmark>
+  </folder>
+  <folder id="163">
+    <title>Line Dev</title>
+    <bookmark href="https://medium.com/linedevth/linebot-with-simple-beacon-cc8b04b378d8#:~:text=LINE%20Beacon%20(%E0%B8%9A%E0%B8%B5%E0%B8%84%E0%B8%AD%E0%B8%99)%20%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99,%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B2" id="179">
+      <title>ลองเล่น LINE Beacon แบบไม่ต้องใช้ Device จริง - LINE Developers Thailand - Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/linedevth/12-%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%88%E0%B8%B2%E0%B8%81-webhook-events-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89-line-bot-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C-4cb7da653274" id="180">
+      <title>12 สัญญาณจาก Webhook Events ที่จะปลุกให้ LINE Bot ของคุณตื่นจากภวังค์</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@prapon/%E0%B8%AA%E0%B8%AD%E0%B8%99-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3-line-messaging-api-ec29e8e9858e" id="181">
+      <title>สอน+วิธีทำ Line Messaging Api – Prapon Chinchan – Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/linedevth/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-line-bot-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-messaging-api-%E0%B9%81%E0%B8%A5%E0%B8%B0-cloud-functions-for-firebase-20d284edea1b" id="182">
+      <title>สร้าง LINE Bot ด้วย Messaging API และ Cloud Functions for Firebase</title>
+    </bookmark>
+    <bookmark href="https://medium.com/linedevth/linebot-ngrok-b319841a49d7" id="183">
+      <title>การใช้ ngrok เพื่อทดสอบ LINE Bot – LINE Developers Thailand – Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@phayao/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-line-beacon-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-raspberry-pi-e99e076ba20a" id="184">
+      <title>ลองเล่น LINE Beacon ด้วย Raspberry Pi – Phayao Boonon – Medium</title>
+    </bookmark>
+    <bookmark href="https://account.line.biz/login?redirectUri=https%3A%2F%2Fmanager.line.biz%2Fbeacon%2Fregister#/" id="185">
+      <title>LINE Business ID (HWID)</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@supachaija/how-to-setup-raspberry-pi-zero-w-headless-with-wifi-466c7a9e4a9b" id="186">
+      <title>How To Setup Raspberry Pi Zero W Headless with Wifi</title>
+    </bookmark>
+  </folder>
+  <folder id="164">
+    <title>Microservice</title>
+    <bookmark href="https://blog.devops.dev/make-rest-api-using-grpc-in-the-net-core-f7506daa86a0" id="187">
+      <title>Make REST API using gRPC in the .NET Core | by Vahid Alizadeh | DevOps.dev</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@nomanali03100/grpc-crash-course-net-8-part-4-integration-with-web-api-99fd159250d3" id="188">
+      <title>GRPC Crash Course .NET 8 Part: 4 Integration with Web API | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@hilalyazbek/implementing-a-net-crud-api-with-cqrs-9676eaf37724" id="189">
+      <title>Implementing a .Net CRUD API with CQRS | by Hilal Yazbek | Medium</title>
+    </bookmark>
+  </folder>
+  <folder id="165">
+    <title>NLog</title>
+    <bookmark href="https://github.com/NLog/NLog.Extensions.Logging/issues/225" id="190">
+      <title>How to use NLog with AutoFac in a net core Console app? · Issue #225 · NLog/NLog.Extensions.Logging · GitHub</title>
+    </bookmark>
+    <bookmark href="https://knightcodes.com/.net/2016/05/25/logging-to-a-database-wth-nlog.html" id="191">
+      <title>Logging To A Database With NLog</title>
+    </bookmark>
+  </folder>
+  <folder id="166">
+    <title>Node JS</title>
+    <bookmark href="https://stackoverflow.com/questions/15979904/iis-node-js-and-web-application-with-iisnode-not-configured-right-with-virtual/31482232#31482232" id="192">
+      <title>IIS, Node.js, and Web Application with IISNode not configured right with Virtual Directory - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="193">
+    <title>PCT</title>
+    <bookmark href="https://noobmarketer.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a%e0%b9%84%e0%b8%8b%e0%b8%95%e0%b9%8c/" id="195">
+      <title>วิธีการสร้างเว็บไซต์ (อธิบายทุกขั้นตอนอย่างละเอียด)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=E7Voso411Vs" id="196">
+      <title>Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.thaicreate.com/windows-azure/windows-azure-web-site-custom-domain.html" id="197">
+      <title>Custom Domain ชื่อโดเมนของเราเองบน Web Site ของ Azure</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=_qIYBgWTlTo" id="198">
+      <title>Asp.Net MVC CRUD Operations Using Datatable - YouTube</title>
+    </bookmark>
+    <bookmark href="https://techbrij.com/read-excel-xls-xlsx-asp-net-mvc-upload" id="199">
+      <title>Upload and Read Excel File (.xls, .xlsx) in ASP.NET MVC - TechBrij</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=QgTguBcBp94" id="200">
+      <title>Entity Framework - Migrations in SQL Server Database - YouTube</title>
+    </bookmark>
+    <bookmark href="https://forums.asp.net/t/2151062.aspx?How+to+use+SqlBulkCopy+with+Entity+Framework+" id="201">
+      <title>How to use SqlBulkCopy with Entity Framework | The ASP.NET Forums</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/11636386/how-to-configure-the-web-config-to-allow-requests-of-any-length" id="202">
+      <title>c# - How to configure the web.config to allow requests of any length - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=TehnRqQtKv8" id="203">
+      <title>(1) jQuery Validation Plugin: Custom Validation (2/4) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/u/1/folders/1-wOhdwHlnUoi3OeRD3-7IxQwRBhT_0Tw" id="204">
+      <title>เอกสาร pct - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/publish-web-app-from-visual-studio" id="216">
+      <title>Publish a Web App to an Azure VM from Visual Studio - Azure Windows Virtual Machines | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://www.c-sharpcorner.com/article/deploy-web-app-in-azure-vm-using-visual-studio/" id="217">
+      <title>Deploy Web App In Azure VM Using Visual Studio</title>
+    </bookmark>
+    <bookmark href="https://contentshifu.com/what-is-ssl/" id="218">
+      <title>HTTPS และ SSL คืออะไร ทำไมเว็บไซต์คุณถึงต้องมี | Content Shifu</title>
+    </bookmark>
+    <bookmark href="https://www.nickedeye.com/iis-keep-website-alive-always-running/" id="219">
+      <title>IIS keep website alive, always running, always on: ASP.NET application auto start, keep app pool alive, with IIS Application Initialization - NickedEye . Singapore</title>
+    </bookmark>
+    <bookmark href="https://www.c-sharpcorner.com/UploadFile/ff2f08/exception-or-error-handling-in-Asp-Net-mvc-using-handleerror/" id="220">
+      <title>Exception or Error Handling in ASP.Net MVC Using HandleError Attribute</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/19735740/display-custom-error-page-and-show-exception-details" id="221">
+      <title>asp.net mvc - Display custom error page and show exception details - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="194">
+    <title>RabbitMQ</title>
+    <folder id="205">
+      <title>DLX</title>
+      <bookmark href="https://medium.com/@igkuz/ruby-retry-scheduled-tasks-with-dead-letter-exchange-in-rabbitmq-9e38aa39089b" id="215">
+        <title>Ruby retry/scheduled tasks with Dead Letter Exchange in RabbitMQ | by Igor Kuznetsov | Medium</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.youtube.com/watch?v=w84uFSwulBI" id="206">
+      <title>RabbitMQ in .NET Core (Part 1, Single producer and consumer with Queue) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://computingforgeeks.com/how-to-install-latest-rabbitmq-server-on-ubuntu-linux/" id="207">
+      <title>Install Latest RabbitMQ Server on Ubuntu 20.04 | 18.04 LTS | ComputingForGeeks</title>
+    </bookmark>
+    <bookmark href="https://medium.com/iamgoangle/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A-rabbitmq-%E0%B9%81%E0%B8%A5%E0%B8%B0-amqp-best-practices-108f6076c330" id="208">
+      <title>สิ่งที่น่าสนใจเกี่ยวกับ RabbitMQ และ AMQP Best Practices | by Teerapong Singthong 👨🏻‍💻 | iamgoangle | Medium</title>
+    </bookmark>
+    <bookmark href="https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493" id="209">
+      <title>RabbitMQ Retries — The Full Story | by Erez Rabih | Nanit Engineering</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/37307437/rabbitmq-manual-ack-on-c-sharp-client" id="210">
+      <title>RabbitMQ Manual ACK on c# client - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/31915773/rabbitmq-what-are-ready-and-unacked-types-of-messages#:~:text=Unacked%20means%20that%20the%20consumer,messages%20are%20distributed%20among%20them." id="211">
+      <title>RabbitMQ&quot; What are &quot;Ready&quot; and &quot;Unacked&quot; types of messages? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/37019459/how-to-implement-rabbitmq-in-angular-js" id="212">
+      <title>How to implement rabbitmq in angular js - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.cloudamqp.com/blog/2020-09-10-what-is-a-rabbitmq-vhost.html" id="213">
+      <title>vhost</title>
+    </bookmark>
+    <bookmark href="https://medium.com/trendyol-tech/rabbitmq-federation-plugin-cb87f7450365" id="214">
+      <title>RabbitMQ Federation</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/10620976/rabbitmq-amqp-single-queue-multiple-consumers-for-same-message#:~:text=Up%20vote%203-,RabbitMQ%20%2F%20AMQP%3A%20single%20queue%2C%20multiple%20consumers%20for,same%20message%20and%20page%20refresh.&amp;text=To%20get%20the%20behavior%20you,of%20the%20queues%20at%20once." id="222">
+      <title>single queue, multiple consumers for same message?</title>
+    </bookmark>
+    <bookmark href="https://medium.com/codait/handling-failure-successfully-in-rabbitmq-22ffa982b60f" id="223">
+      <title>Handling Failure Successfully in RabbitMQ | by Lorna Mitchell | Center for Open Source Data and AI Technologies | Medium</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/30546977/is-there-a-timeout-for-acking-rabbitmq-messages#:~:text=RabbitMQ%20does%20not%20provide%20any%20sort%20of%20timeout%20mechanism%20for%20acknowledging%20messages.&amp;text=There%20aren&apos;t%20any%20message,a%20very%2C%20very%20long%20time." id="224">
+      <title>c# - Is there a timeout for acking RabbitMQ messages? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://developers.ascendcorp.com/7-%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B9%88%E0%B8%87-message-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rabbitmq-c9473cc2052" id="225">
+      <title>7 สิ่งที่ควรทำเพื่อความเสถียรในการรับส่ง message ด้วย RabbitMQ | by Radit P. | Ascend Developers</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=XjuiZM7JzPw" id="226">
+      <title>Reliable Messaging With RabbitMQ - Part 1 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://programmer.ink/think/the-right-way-to-use-rabbitmq-in-net-core.html" id="227">
+      <title>The right way to use RabbitMQ in. NET Core</title>
+    </bookmark>
+    <bookmark href="https://blog.forma-pro.com/rabbitmq-redelivery-pitfalls-440e0347f4e0" id="228">
+      <title>RabbitMQ redelivery pitfalls. In this post I am going to describe… | by Max Kotliar | formapro</title>
+    </bookmark>
+    <bookmark href="https://www.cloudamqp.com/blog/2016-01-25-identify-and-protect-against-high-cpu-and-memory-usage.html" id="229">
+      <title>How to handle and avoid high CPU or Memory usage - CloudAMQP</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@oprearocks/set-up-a-rabbitmq-cluster-on-your-laptop-using-docker-4276555b0f28" id="230">
+      <title>SET UP A RABBITMQ CLUSTER ON YOUR LAPTOP USING DOCKER | by Adrian Oprea | Medium</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=-ysZPO_3HF0" id="232">
+      <title>(1) RabbitMQ Exchange Federation | Tutorial | Setup Message Federation in Rabbitmq | Federation UseCases - YouTube</title>
+    </bookmark>
+    <bookmark href="https://my.oschina.net/u/1041902/blog/4544097" id="233">
+      <title>fix issue: configure Erlang Cookie</title>
+    </bookmark>
+    <bookmark href="https://livebook.manning.com/book/rabbitmq-in-action/chapter-6/9" id="234">
+      <title>(load balancer) Chapter 6. Writing code that survives failure - RabbitMQ in Action: Distributed messaging for everyone</title>
+    </bookmark>
+    <bookmark href="http://codereform.com/blog/post/configuring-an-nginx-tcp-proxy-for-my-rabbitmq-cluster-under-10-minutes/" id="235">
+      <title>Configuring an Nginx TCP proxy for my RabbitMQ cluster in under 10 minutes – Code Reform</title>
+    </bookmark>
+    <bookmark href="https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/" id="236">
+      <title>How To Use the Official NGINX Docker Image - Docker Blog</title>
+    </bookmark>
+    <bookmark href="https://gigi.nullneuron.net/gigilabs/resilient-connections-with-rabbitmq-net-client/" id="237">
+      <title>Resilient Connections with RabbitMQ .NET Client - Gigi Labs</title>
+    </bookmark>
+  </folder>
+  <folder id="231">
+    <title>React hooks + Spring boot + JWT</title>
+    <bookmark href="https://bezkoder.com/react-hooks-jwt-auth/" id="245">
+      <title>React Hooks: JWT Authentication (without Redux) example - BezKoder</title>
+    </bookmark>
+  </folder>
+  <folder id="238">
+    <title>SonarQube</title>
+    <bookmark href="https://stackoverflow.com/questions/45370150/sonar-exclusions-not-working-with-sonar-scanner-for-msbuild" id="246">
+      <title>jenkins - Sonar.exclusions not working with Sonar scanner for MSBuild - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://hub.docker.com/_/sonarqube" id="247">
+      <title>sonarqube - Docker Hub</title>
+    </bookmark>
+    <bookmark href="https://dotnetthoughts.net/initialize-mssql-in-docker-container/" id="248">
+      <title>Initialize MS SQL Server in Docker container - creating database at startup | dotnetthoughts</title>
+    </bookmark>
+    <bookmark href="https://nishabe.medium.com/how-to-setup-up-sonarqube-for-swift-project-732002684cbb" id="249">
+      <title>How to Setup up SonarQube for Swift Project? | by nish abe | Medium</title>
+    </bookmark>
+  </folder>
+  <folder id="239">
+    <title>SQL Server</title>
+    <bookmark href="https://www.tamemo.com/post/114/sql-view-function-procedure-trigger/" id="250">
+      <title>[SQL] สรุปการใช้ view-function-procedure-trigger แบบง่ายๆ – TAmemo.com</title>
+    </bookmark>
+    <bookmark href="https://sqlandsql.wordpress.com/2014/05/14/sql-server-error-the-current-transaction-cannot-be-committed-and-cannot-support-operations-that-write-to-the-log-file-roll-back-the-transaction/" id="251">
+      <title>SQL Server Error : The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction. | SQL Problems and Solutions</title>
+    </bookmark>
+    <bookmark href="https://www.tutorialgateway.org/nested-transactions-in-sql-server/" id="252">
+      <title>Nested Transactions in SQL Server</title>
+    </bookmark>
+    <bookmark href="https://www.mssqltips.com/sqlservertip/5538/understanding-sql-server-transaction-savepoints/" id="253">
+      <title>Understanding SQL Server Transaction Savepoints</title>
+    </bookmark>
+    <bookmark href="https://medium.com/arcadia-software-development/sql-reset-auto-increment-column-%E0%B8%9A%E0%B8%99-microsoft-sql-server-8b73db499252" id="254">
+      <title>[SQL] Reset Auto increment column บน Microsoft SQL Server | by oum_nomercy | Arcadia Software Development | Medium</title>
+    </bookmark>
+    <bookmark href="https://blog.sqlauthority.com/2009/05/09/sql-server-find-last-date-time-updated-for-any-table/#:~:text=If%20a%20user%20wants%20to,was%20the%20table%20updated%20last." id="255">
+      <title>SQL SERVER - Find Last Date Time Updated for Any Table - SQL Authority with Pinal Dave</title>
+    </bookmark>
+    <bookmark href="https://www.c-sharpcorner.com/article/email-notification-on-sql-job-failure/" id="256">
+      <title>Email Notification On SQL Job Failure</title>
+    </bookmark>
+    <bookmark href="https://everyething.com/how-to-release-or-remove-lock-on-a-table-SQL-server" id="257">
+      <title>How to release or remove lock on a table SQL server | everyEthing</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/18060667/cannot-connect-to-server-a-network-related-or-instance-specific-error" id="258">
+      <title>Cannot Connect to Server - A network-related or instance-specific error - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.9experttraining.com/articles/%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99-execution-plan" id="259">
+      <title>เตรียมพร้อมก่อนอ่าน Execution Plan | 9Expert Training</title>
+    </bookmark>
+    <bookmark href="https://www.9experttraining.com/articles/sql-server-query-execution-plan-1" id="276">
+      <title>การอ่าน Query Execution Plan ตอนที่ 1 | 9Expert Training</title>
+    </bookmark>
+    <bookmark href="https://www.9experttraining.com/articles/sql-server-query-execution-plan-2?fbclid=IwZXh0bgNhZW0CMTAAAR2dpGe2HQLLJ-71CWqikE9hGf6g268FwmSvSnbdzxoE3cC5kCPq8LOxURU_aem_AScwbRyRE5vzibLoS-FmK3GP5gIQz-tbnd9vU4rO9FGUiZBmwfGutnaeLSndf2RUkobwvwcutNbeSgjcZsZJ1GBR" id="277">
+      <title>การอ่าน Query Execution Plan ตอนที่ 2 | 9Expert Training</title>
+    </bookmark>
+  </folder>
+  <folder id="240">
+    <title>SSL</title>
+    <bookmark href="https://support.cloudways.com/en/articles/5129639-how-to-fix-incomplete-certificate-chain-warning" id="260">
+      <title>How to Fix Incomplete Certificate Chain Warning? | Cloudways Help Center</title>
+    </bookmark>
+  </folder>
+  <folder id="241">
+    <title>Steam</title>
+    <bookmark href="https://leo3418.github.io/2023/07/15/minimize-steam-for-game-shortcuts.html" id="261">
+      <title>Minimize Steam When Launching a Game Shortcut on Windows - Leo3418&apos;s Personal Site</title>
+    </bookmark>
+  </folder>
+  <folder id="242">
+    <title>THS</title>
+    <bookmark href="https://www.youtube.com/channel/UCkCJ0n2XNp16Ef1pXUkpTKA/playlists" id="262">
+      <title>Bundit Thanasopon - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLLRM7ROnmA9FxCtnLoIHAs6hIkJyd1dEx" id="263">
+      <title>Django and React - YouTube</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@wasinthiengkunakrit/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-django-restframework-94e08255fe3c" id="264">
+      <title>เริ่มต้นใช้งาน Django RestFramework - Wasin Thiengkunakrit - Medium</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLEE74DyIkwEnLEw3lBrTsn6EXU6b5aOXr" id="265">
+      <title>สอน REACT JAVASCRIPT LIBRARY - YouTube</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@bigboss27051/react-life-cycle-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-4aff7affc6b5" id="266">
+      <title>React life cycle มันคืออะไร ??? - Like - Medium</title>
+    </bookmark>
+    <bookmark href="https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d/" id="267">
+      <title>A complete guide to default props in React - LogRocket Blog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/192109/is-there-a-built-in-function-to-print-all-the-current-properties-and-values-of-a" id="268">
+      <title>python print detail from querySet</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/48378910/django-view-to-call-api?rq=1" id="269">
+      <title>python - Django view to call api - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=EyMFf9O6E60" id="270">
+      <title>(2) django nested serializer - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=B7EIK9yVtGY" id="271">
+      <title>(1) Render a Django HTML Template to a PDF file // Django Utility // CFE // Render_to_PDF - YouTube</title>
+    </bookmark>
+    <bookmark href="https://codeburst.io/django-render-html-to-pdf-41a2b9c41d16" id="278">
+      <title>Django — render HTML to PDF - codeburst</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=UVXu-N_Zojw" id="279">
+      <title>(download when enter url) Generar reportes en PDF con Python y Django - YouTube</title>
+    </bookmark>
+    <bookmark href="https://dev.to/djangotricks/how-to-create-pdf-documents-with-django-in-2019-5gb9" id="280">
+      <title>How to Create PDF Documents with Django in 2019 - DEV Community 👩‍💻👨‍💻</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/24852555/how-to-exclude-parent-when-serializer-is-nested-when-using-django-rest-framework" id="281">
+      <title>exclude nested field</title>
+    </bookmark>
+    <bookmark href="https://fontawesome.com/" id="282">
+      <title>Font Awesome</title>
+    </bookmark>
+    <bookmark href="https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d" id="283">
+      <title>Understanding React Default Props - Bits and Pieces</title>
+    </bookmark>
+    <bookmark href="https://github.com/ant-design/ant-design/issues/14291" id="284">
+      <title>antd column x scroll</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@marstherice/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89-font-awesome-5-%E0%B8%81%E0%B8%B1%E0%B8%9A-react-160b34abd493" id="285">
+      <title>วิธีใช้ Font Awesome 5 กับ React - Songpol Anannetikul - Medium</title>
+    </bookmark>
+    <bookmark href="https://apexcharts.com/" id="286">
+      <title>ApexCharts.js - Open Source JavaScript Charts for your website</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=k32voqQhODc" id="287">
+      <title>(1) Flexbox Tutorial (CSS): Real Layout Examples - YouTube</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/34228043/css-crop-image-top-and-bottom" id="294">
+      <title>html - CSS - crop image - top and bottom - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://posoco.in/reports/daily-reports/daily-reports-2013-14/" id="295">
+      <title>Daily Reports – 2013-14</title>
+    </bookmark>
+    <bookmark href="https://github.com/scrapy/scrapy/issues/2115" id="296">
+      <title>&apos; error: command &apos;x86_64-linux-gnu-gcc&apos; failed with exit status 1 &apos; · Issue #2115 · scrapy/scrapy</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/38589830/django-crontab-not-executing-test-function" id="297">
+      <title>python - Django crontab not executing test function - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.erol.si/2014/05/running-cron-tasks-with-django-and-kronos/" id="298">
+      <title>Running cron tasks with Django and Kronos | Erol.si</title>
+    </bookmark>
+    <bookmark href="https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working" id="299">
+      <title>cron - Why crontab scripts are not working? - Ask Ubuntu</title>
+    </bookmark>
+    <bookmark href="https://www.jobthai.com/th/company/155673" id="300">
+      <title>บริษัท เตียวฮงสีลม จำกัด/ Teo Hong Silom Co., Ltd. งาน หางาน สมัครงาน - JobThai</title>
+    </bookmark>
+  </folder>
+  <folder id="243">
+    <title>Visual Studio</title>
+    <bookmark href="https://medium.com/c-sharp-progarmming/safely-rename-a-project-folder-visual-studio-f3c6bd4d0bd6" id="272">
+      <title>Rename .Net Framework project</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@rodlauroromarate/how-to-rename-an-asp-net-core-project-ad6d93cc3df4" id="273">
+      <title>Rename .Net Core project</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/72031733/the-online-service-is-not-available-issue-in-visual-studio-professional-2013-w" id="274">
+      <title>VS 2013 with Update 5 - &apos;The Online Service is not available&apos;</title>
+    </bookmark>
+  </folder>
+  <folder id="244">
+    <title>VM</title>
+    <bookmark href="https://serverfault.com/questions/225155/virtualbox-how-to-set-up-networking-so-both-host-and-guest-can-access-internet" id="275">
+      <title>VirtualBox: How to set up networking so both host and guest can access internet and talk to each other - Server Fault</title>
+    </bookmark>
+  </folder>
+  <folder id="288">
+    <title>Web Security</title>
+    <bookmark href="https://medium.com/blog-blog/top-10-2017-a5-broken-access-control-97b6d3dcaf4b" id="289">
+      <title>Top 10–2017 A5-Broken Access Control | by Suphalak Somchin | blog blog | Medium</title>
+    </bookmark>
+    <bookmark href="https://medium.com/blog-blog/owasp-security-misconfiguration-fdc87fb5c759" id="290">
+      <title>OWASP - Security Misconfiguration | by Sarun Wirawibunnan | blog blog | Medium</title>
+    </bookmark>
+    <bookmark href="https://kixoqxq59.medium.com/ssrf-server-side-request-forgery-%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99-e80bf7198f07" id="291">
+      <title>SSRF: Server-side request forgery อธิบายการโจมตีและการป้องกัน | by Kaori Takase | Medium</title>
+    </bookmark>
+    <bookmark href="https://kixoqxq59.medium.com/csrf-cross-site-request-forgery-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-df6d33b1a400" id="292">
+      <title>CSRF: Cross-Site Request Forgery คืออะไร | by Kaori Takase | Medium</title>
+    </bookmark>
+    <bookmark href="https://netway.co.th/kb/linux-hosting/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87-website/%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2-security-headers-%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%99-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89-a-%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD-a-%E0%B8%88%E0%B8%B2%E0%B8%81-f#:~:text=X%2DFrame%2DOptions%20%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%20Header,%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87" id="293">
+      <title>ตั้งค่า Security Headers โดเมน</title>
+    </bookmark>
+  </folder>
+  <folder id="301">
+    <title>Windows</title>
+    <bookmark href="https://superuser.com/questions/1185779/is-it-possible-to-install-fonts-in-windows-without-admin-rights" id="308">
+      <title>Is it possible to install fonts in Windows without admin rights? - Super User</title>
+    </bookmark>
+  </folder>
+  <folder id="302">
+    <title>Clean Architecture</title>
+    <bookmark href="https://dev.to/prodigy9/clean-architecture-1o9p?source=post_page-----64968d4a9470---------------------------------------" id="309">
+      <title>มารู้จักกับ Clean Architecture กันดีกว่า! - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://medium.com/t-t-software-solution/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-clean-architecture-%E0%B8%81%E0%B8%B1%E0%B8%9A-unit-test-%E0%B9%83%E0%B8%99-net-7-64968d4a9470" id="310">
+      <title>ทดลองเขียน Clean Architecture กับ Unit test ใน .NET 7 | by Nakorn Rientrakrunchai | T. T. Software Solution | Medium</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=eZfjhE_yvzA&amp;list=PLA54IhaVHkrR1McttPci8fKdKb0UMqYZ0&amp;index=2" id="311">
+      <title>Demo - .Net + Angular</title>
+    </bookmark>
+    <bookmark href="https://github.com/jasontaylordev/CleanArchitecture" id="312">
+      <title>jasontaylordev/CleanArchitecture: Clean Architecture Solution Template for ASP.NET Core</title>
+    </bookmark>
+    <bookmark href="https://github.com/mahdikazemi96/RegisterationForm" id="313">
+      <title>mahdikazemi96/RegisterationForm: Clean Architecture + ASP.NET Core 6 Web API + .NET Core 6 Class Library + Angular 13</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://account.line.biz/login?redirectUri=https%3A%2F%2Faccount.line.biz%2Foauth2%2Fcallback%3Fclient_id%3D10%26code_challenge%3Dnp63ORBIkz10qAN_l9kpTe-aOlLe0tcfFEz9g0NFhFA%26code_challenge_method%3DS256%26redirect_uri%3Dhttps%253A%252F%252Fmanager.line.biz%252Fapi%252Foauth2%252FbizId%252Fcallback%26response_type%3Dcode%26state%3Dtvr7I7kbuCPpeEiaZfGxCPq9iLk0SwXO" id="303">
+    <title>LINE Business ID</title>
+  </bookmark>
+  <bookmark href="https://medium.com/linedevth/line-notify-migration-tips-0432e5f7af6e" id="304">
+    <title>บ๊ายบาย!! ย้ายบ้านจาก LINE Notify สู่ LINE Messaging API หา User ID, Group ID ง่าย ๆ ไม่ต้องทำ Webhook เอง | by Supakarn Laorattanakul | LINE Developers Thailand | Medium</title>
+  </bookmark>
+  <bookmark href="http://chart.bidschart.com/tv/jkn" id="305">
+    <title>bidchart</title>
+  </bookmark>
+  <bookmark href="http://click2win.settrade.com/SETClick2WIN/index.jsp" id="306">
+    <title>CLICK2WIN</title>
+  </bookmark>
+  <bookmark href="https://www.hongpak.in.th/" id="307">
+    <title>hongpak</title>
+  </bookmark>
+  <bookmark href="http://www.investorz.com/chart/PRM.BK" id="314">
+    <title>investorz chart</title>
+  </bookmark>
+  <bookmark href="https://www.oremanga.net/series/one-punch-man/" id="315">
+    <title>One Punch Man - Oremanga โอเระมังงะ อ่านการ์ตูนมังงะแปลไทยออนไลน์ล่าสุดก่อนใครง่ายๆเพียงแค่คลิก</title>
+  </bookmark>
+  <bookmark href="https://www.pnpsw.com/" id="316">
+    <title>PnP Solution</title>
+  </bookmark>
+  <bookmark href="https://pobierzgrepc.com/" id="317">
+    <title>PobierzGrePC.com - Pobierz darmowe gry na komputer PC za darmo!</title>
+  </bookmark>
+  <bookmark href="http://www.renthub.in.th/" id="318">
+    <title>RentHub</title>
+  </bookmark>
+  <bookmark href="https://www.set.or.th/set/mainpage.do?language=th&amp;country=TH" id="319">
+    <title>SET</title>
+  </bookmark>
+  <bookmark href="http://www.settrade.com/settrade/#/home" id="320">
+    <title>Settrade</title>
+  </bookmark>
+  <bookmark href="http://siamchart.com/" id="321">
+    <title>Siam Chart</title>
+  </bookmark>
+  <bookmark href="https://www.bualuang.co.th/" id="322">
+    <title>หลักทรัพย์บัวหลวง</title>
+  </bookmark>
+  <bookmark href="https://edabit.com/" id="323">
+    <title>Edabit</title>
+  </bookmark>
+  <bookmark href="https://www.wegointer.com/2014/11/2000-stories/" id="324">
+    <title>มาฝึกทักษะการฟังภาษาอังกฤษ กับไฟล์เสียง story เกือบ 2,000 เรื่อง!! | WeGoInter.com - เรียนต่อต่างประเทศ</title>
+  </bookmark>
+  <bookmark href="https://blog.wisesight.com/%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%93%E0%B9%8C-software-developer-%E0%B9%83%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B0-d1647e47021b" id="325">
+    <title>มุมมองการสัมภาษณ์ Software Developer ในฐานะคนสัมภาษณ์ คาดหวังอะไรหน่ะ | by Nttwt Miz Chin | Wisesight Thailand</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Workspaces favorites</title>
+  <folder id="22">
+    <title>Workspace 2</title>
+  </folder>
+  <folder id="23">
+    <title>Workspace 1</title>
+  </folder>
+</folder>
+</xbel>
