@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :337: for Floccus bookmark sync browser extension -->
+<!--- highestId :338: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -44,6 +44,9 @@
       </bookmark>
       <bookmark href="https://metroretro.io/BOAGV5GIXQ1K" id="337">
         <title>20250509</title>
+      </bookmark>
+      <bookmark href="https://kkps.atlassian.net/browse/ITS-5855" id="338">
+        <title>[ITS-5855] [BETTER][MFET] set up API gateway for mobile - Jira</title>
       </bookmark>
     </folder>
     <bookmark href="https://hr.kkpfg.com/ebook/CMGEmployeeHandbook/#p=1" id="25">
