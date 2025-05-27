@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :338: for Floccus bookmark sync browser extension -->
+<!--- highestId :339: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -72,6 +72,9 @@
     </bookmark>
     <bookmark href="http://ptsecmsvssd2:8080/scm/repos/" id="92">
       <title>Repositories</title>
+    </bookmark>
+    <bookmark href="https://ptsecmssftp04:9001/goanywhere/auth/Login.xhtml" id="339">
+      <title>GoAnywhere 6.8.6 - ptsecmssftp04</title>
     </bookmark>
   </folder>
   <folder id="5">
