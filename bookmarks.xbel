@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :340: for Floccus bookmark sync browser extension -->
+<!--- highestId :341: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -29,6 +29,9 @@
       </bookmark>
       <bookmark href="https://kkps.atlassian.net/jira/software/c/projects/ITS/boards/1160?search=sell" id="335">
         <title>2.1 Deploy Board - Kanban Board - Jira</title>
+      </bookmark>
+      <bookmark href="https://kiatnakin365.sharepoint.com/sites/KKPSApplicationDevTeamTeamsSite/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=UwzEjj&amp;CID=37e4a8a1%2Dd0c1%2D5000%2D5938%2D252be752482f&amp;FolderCTID=0x0120006104EEF49ADC984381894A4948FB9D15&amp;id=%2Fsites%2FKKPSApplicationDevTeamTeamsSite%2FShared%20Documents%2FGeneral%2FProject%20Document%2FKA%2DTI" id="341">
+        <title>KA-TI SharePoint</title>
       </bookmark>
     </folder>
     <folder id="103">
