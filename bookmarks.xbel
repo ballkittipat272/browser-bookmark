@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :341: for Floccus bookmark sync browser extension -->
+<!--- highestId :342: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -32,6 +32,9 @@
       </bookmark>
       <bookmark href="https://kiatnakin365.sharepoint.com/sites/KKPSApplicationDevTeamTeamsSite/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=UwzEjj&amp;CID=37e4a8a1%2Dd0c1%2D5000%2D5938%2D252be752482f&amp;FolderCTID=0x0120006104EEF49ADC984381894A4948FB9D15&amp;id=%2Fsites%2FKKPSApplicationDevTeamTeamsSite%2FShared%20Documents%2FGeneral%2FProject%20Document%2FKA%2DTI" id="341">
         <title>KA-TI SharePoint</title>
+      </bookmark>
+      <bookmark href="https://ptseclsgamftu1.phatrasec.com:8001/goanywhere/auth/Login.xhtml" id="342">
+        <title>GoAnywhere 7.8.0 - PTSECLSGAMFTU1</title>
       </bookmark>
     </folder>
     <folder id="103">
